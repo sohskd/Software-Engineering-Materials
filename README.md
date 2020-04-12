@@ -3,8 +3,6 @@ List of Software Engineering Youtubers to follow in order to learn new technolog
 
 
 ## General Technology
-- [TechLead](https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw/featured): Patrick Shyu is an ex-Google/ex-Facebook Tech Lead who gives his view on technology in general. Topics in includes money making side businesses, good lifestyle tips as a software engineer & views on the software engineering landscape.
-
 - [Clément Mihailescu](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g): Clément Mihailescu is an ex-Google and ex-Facebook Software Engineer. He co-founded AlgoExpert, a website to prepare candidates for the coding interview. Video content includes interviews with other software engineers, salary negotiation & tips on software engineering.
 
 - [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ/featured): Presentations on many technology conferences around the world.
@@ -15,13 +13,15 @@ List of Software Engineering Youtubers to follow in order to learn new technolog
 
 - [Eli the Computer Guy](https://www.youtube.com/user/elithecomputerguy/featured): Discussion on technologies. Topics include Linux, Cloud Computing, Computer Security & Arduino discussion.
 
-- [Tech Primers](https://www.youtube.com/channel/UCB12jjYsYv-eipCvBDcMbXw/featured): Videos include topics on AWS, Kubernetes, Spring, Cloud, Microservices and DevOps.
-
 - [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q/featured): Mattias Petter Johansson is a Javascript developer. Video content includes discussion about personal life, software engineering tips & live stream interviews with other engineers.
+
+- [Joshua Fluke](https://www.youtube.com/user/Tychos1/featured): General discussion on the software engineering industry & how to make money.
 
 - [Stefan Mischook](https://www.youtube.com/user/killerphp/featured): Stefan has been coding websites since 1994 and teaches web design & programming for over 10 years. General discussion on various technologies & views on the software engineering landscape.
 
-- [Joshua Fluke](https://www.youtube.com/user/Tychos1/featured): General discussion on the software engineering industry & how to make money.
+- [Tech Primers](https://www.youtube.com/channel/UCB12jjYsYv-eipCvBDcMbXw/featured): Videos include topics on AWS, Kubernetes, Spring, Cloud, Microservices and DevOps.
+
+- [TechLead](https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw/featured): Patrick Shyu is an ex-Google/ex-Facebook Tech Lead who gives his view on technology in general. Topics in includes money making side businesses, good lifestyle tips as a software engineer & views on the software engineering landscape.
 
 ## DevOps
 - [Bret Fisher Docker and DevOps](https://www.youtube.com/channel/UC0NErq0RhP51iXx64ZmyVfg/featured): Bret video's focuses on DevOps, containers, Docker, Kubernetes, and cloud. His videos also includes interviews with other DevOps engineers.
@@ -44,20 +44,20 @@ List of Software Engineering Youtubers to follow in order to learn new technolog
 
 - [Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA): Florin teaches cool & creative front end web development which includes HTML, CSS, JavaScript, ReactJS, NodeJS, Animations, Components & APIs.
 
-- [RealToughCandy](https://www.youtube.com/channel/UC54NcJvLCvM2CNaBjd5j6HA/featured): Video content on JavaScript, HTML, CSS, React, Vue, Angular & Svelte, career advice & freelance web development.
-
-- [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Video content on Modern JavaScript (beginner to advanced), Node.js, React, Vue.js, Firebase, MongoDB, HTML & CSS.
+- [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts/featured): Created by Scott Tolinski & Ben Schaaf. Scott is one of the host of [Syntax](https://syntax.fm/) podcast. Video content includes Javascript, React, GraphQL & Apollo etc.
 
 - [Program With Erik](https://www.youtube.com/channel/UCshZ3rdoCLjDYuTR_RBubzw/featured): Video content on VueJS, Svelte, Tailwind, Vuesax, NuxtJS & GraphQL.
 
-- [The Coding Train](https://www.youtube.com/user/shiffman): Video content on interesting JavaScript projects which includes algorithmic art, machine learning & other really innovative applications. 
-
-- [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts/featured): Created by Scott Tolinski & Ben Schaaf. Scott is one of the host of [Syntax](https://syntax.fm/) podcast. Video content includes Javascript, React, GraphQL & Apollo etc.
+- [RealToughCandy](https://www.youtube.com/channel/UC54NcJvLCvM2CNaBjd5j6HA/featured): Video content on JavaScript, HTML, CSS, React, Vue, Angular & Svelte, career advice & freelance web development.
 
 - [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA): One of the most popular channels for web developers. A series of the latest web technologies including Node.js, Angular 2, React.js, PHP, Rails, HTML, CSS and many more.
 
+- [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Video content on Modern JavaScript (beginner to advanced), Node.js, React, Vue.js, Firebase, MongoDB, HTML & CSS.
+
+- [The Coding Train](https://www.youtube.com/user/shiffman): Video content on interesting JavaScript projects which includes algorithmic art, machine learning & other really innovative applications. 
+
 ## Java
-- [Telusko](https://www.youtube.com/channel/UC59K-uG2A5ogwIrHw4bmlEg): Navin Reddy is a youtuber & an experienced Java trainer. Video Contents include Java for beginner, Advanced Java, Python, Android, Blockchain, JavaScript, Kotlin, Scala, Spring Framework, Hibernate, C programming, Data Structures, Networking & REST API.
+- [in28minutes](https://www.youtube.com/channel/UCLz7LG4YVi7_iyk4yOARcxA): Topics include Java Frameworks (Spring, Spring Boot, Spring MVC, Struts, Hibernate), Cloud (AWS, PCF, GCP and Azure) and Full Stack (React, Angular).
 
 - [Java Brains](https://www.youtube.com/channel/UCYt1sfh5464XaDBH0oH_o7Q): Video contents on Java & Spring Boot.
 
@@ -65,7 +65,7 @@ List of Software Engineering Youtubers to follow in order to learn new technolog
 
 - [SpringDeveloper](https://www.youtube.com/user/SpringSourceDev/featured): Videos includes technical videos on Spring. There are conference talks related to spring technology as well (SpringOne Platform 2019, filmed in Austin, TX).
 
-- [in28minutes](https://www.youtube.com/channel/UCLz7LG4YVi7_iyk4yOARcxA): Topics include Java Frameworks (Spring, Spring Boot, Spring MVC, Struts, Hibernate), Cloud (AWS, PCF, GCP and Azure) and Full Stack (React, Angular).
+- [Telusko](https://www.youtube.com/channel/UC59K-uG2A5ogwIrHw4bmlEg): Navin Reddy is a youtuber & an experienced Java trainer. Video Contents include Java for beginner, Advanced Java, Python, Android, Blockchain, JavaScript, Kotlin, Scala, Spring Framework, Hibernate, C programming, Data Structures, Networking & REST API.
 
 ## Python
 - [sentdex](https://www.youtube.com/user/sentdex): Very strong python developer. Video contents includes Python Programming tutorials, from the basics to the advance topics. Topics also include machine learning, finance, data analysis, robotics, web development & game development.
