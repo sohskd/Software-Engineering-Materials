@@ -65,6 +65,8 @@ List of Software Engineering Youtubers to follow in order to learn new technolog
 
 - [SpringDeveloper](https://www.youtube.com/user/SpringSourceDev/featured): Videos includes technical videos on Spring. There are conference talks related to spring technology as well (SpringOne Platform 2019, filmed in Austin, TX).
 
+- [VMware Tanzu](https://www.youtube.com/user/goPivotal/featured): Video content by Spring Developer advocates like Mark Heckler & Josh Long. Contents includes Spring, Kubernetes, DevOps & Cloud.
+
 - [Telusko](https://www.youtube.com/channel/UC59K-uG2A5ogwIrHw4bmlEg): Navin Reddy is a youtuber & an experienced Java trainer. Video Contents include Java for beginner, Advanced Java, Python, Android, Blockchain, JavaScript, Kotlin, Scala, Spring Framework, Hibernate, C programming, Data Structures, Networking & REST API.
 
 ## Python
